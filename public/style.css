@@ -1,0 +1,19 @@
+body{
+  padding-top:80px;
+  word-wrap:break-word;
+  background-color: lightsteelblue;
+}
+img{
+  height: 200px;
+}
+li{
+  margin-bottom: 1%;
+  font-size: 20px;
+}
+h3,h4,input,button{
+  font-size: 25px;
+  margin-bottom: 1%;
+}
+h4{
+  margin-bottom: 3%;
+}
